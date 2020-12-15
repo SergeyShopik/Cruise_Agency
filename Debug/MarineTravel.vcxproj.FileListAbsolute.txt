@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\MarineTravel\Debug\MarineTravel.exe
+C:\Users\HP\source\repos\MarineTravel\Debug\MarineTravel.pdb
